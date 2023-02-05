@@ -42,7 +42,7 @@ Status
 
 It is the landing menu, the global statistics are available on the Rspamd service.
 
-Troughput
+Throughput
 ---------
 
 The graphics are displayed in this menu to explain the activity of the antispam 
